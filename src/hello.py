@@ -1,5 +1,10 @@
+def hello_se():
+        print('Hello,SE!\n')
+
 def main():
-        print("hello, world !\n")
+       
+        hello_se()
 
 if__ name__=='__main__':
   main()
+  
